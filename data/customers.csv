@@ -1,0 +1,16 @@
+customer_id,customer_name,gender,city,state,signup_date
+1,Aman Sharma,Male,Indore,Madhya Pradesh,2025-01-15
+2,Priya Verma,Female,Bhopal,Madhya Pradesh,2025-02-10
+3,Rahul Patel,Male,Indore,Madhya Pradesh,2025-02-25
+4,Sneha Jain,Female,Ujjain,Madhya Pradesh,2025-03-05
+5,Rohit Singh,Male,Jabalpur,Madhya Pradesh,2025-03-18
+6,Neha Gupta,Female,Bhopal,Madhya Pradesh,2025-04-02
+7,Arjun Mehta,Male,Indore,Madhya Pradesh,2025-04-20
+8,Pooja Sharma,Female,Gwalior,Madhya Pradesh,2025-05-12
+9,Vikas Yadav,Male,Sagar,Madhya Pradesh,2025-06-08
+10,Kavya Patel,Female,Jabalpur,Madhya Pradesh,2025-06-25
+11,Mohit Jain,Male,Ujjain,Madhya Pradesh,2025-07-10
+12,Anjali Verma,Female,Indore,Madhya Pradesh,2025-07-22
+13,Deepak Sharma,Male,Bhopal,Madhya Pradesh,2025-08-15
+14,Riya Singh,Female,Gwalior,Madhya Pradesh,2025-09-01
+15,Karan Patel,Male,Sagar,Madhya Pradesh,2025-09-18

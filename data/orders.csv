@@ -1,0 +1,33 @@
+order_id,customer_id,order_date,payment_method,order_status
+1001,1,2025-10-05,UPI,Delivered
+1002,2,2025-10-08,Credit Card,Delivered
+1003,3,2025-10-15,UPI,Delivered
+1004,4,2025-10-22,Cash on Delivery,Delivered
+1005,5,2025-11-02,Debit Card,Delivered
+1006,1,2025-11-10,UPI,Delivered
+1007,6,2025-11-18,Credit Card,Delivered
+1008,7,2025-11-25,UPI,Cancelled
+1009,8,2025-12-03,Debit Card,Delivered
+1010,2,2025-12-10,UPI,Delivered
+1011,9,2025-12-18,Cash on Delivery,Delivered
+1012,10,2025-12-25,UPI,Delivered
+1013,3,2026-01-05,Credit Card,Delivered
+1014,11,2026-01-12,UPI,Delivered
+1015,12,2026-01-20,Debit Card,Delivered
+1016,1,2026-01-28,UPI,Delivered
+1017,13,2026-02-05,Credit Card,Delivered
+1018,14,2026-02-12,UPI,Delivered
+1019,5,2026-02-20,Debit Card,Delivered
+1020,7,2026-02-28,UPI,Delivered
+1021,2,2026-03-05,UPI,Delivered
+1022,6,2026-03-12,Credit Card,Delivered
+1023,8,2026-03-18,UPI,Cancelled
+1024,10,2026-03-25,Debit Card,Delivered
+1025,15,2026-04-02,UPI,Delivered
+1026,3,2026-04-10,Credit Card,Delivered
+1027,4,2026-04-18,UPI,Delivered
+1028,1,2026-04-25,Debit Card,Delivered
+1029,9,2026-05-05,UPI,Delivered
+1030,11,2026-05-12,Credit Card,Delivered
+1031,12,2026-05-20,UPI,Delivered
+1032,5,2026-05-28,Debit Card,Delivered

@@ -1,0 +1,13 @@
+product_id,product_name,category,sub_category,price
+101,Laptop,Electronics,Computers,60000
+102,Smartphone,Electronics,Mobiles,30000
+103,Headphones,Electronics,Accessories,3000
+104,Keyboard,Electronics,Accessories,2000
+105,Mouse,Electronics,Accessories,1000
+106,Office Chair,Furniture,Chairs,8000
+107,Study Table,Furniture,Tables,12000
+108,Bookshelf,Furniture,Storage,7000
+109,Running Shoes,Fashion,Footwear,4000
+110,T-Shirt,Fashion,Clothing,1500
+111,Jeans,Fashion,Clothing,2500
+112,Backpack,Fashion,Bags,2000
